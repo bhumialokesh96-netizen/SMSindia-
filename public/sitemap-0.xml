@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://smsindia.vercel.app/contact</loc><lastmod>2026-01-19T05:22:38.678Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://smsindia.vercel.app/privacy</loc><lastmod>2026-01-19T05:22:38.679Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://smsindia.vercel.app/terms</loc><lastmod>2026-01-19T05:22:38.679Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://smsindia.vercel.app/blog/5g-revolution-india</loc><lastmod>2026-01-19T05:22:38.679Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://smsindia.vercel.app/blog/sms-banking-guide-india</loc><lastmod>2026-01-19T05:22:38.679Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://smsindia.vercel.app/blog/telecom-regulations-india-2026</loc><lastmod>2026-01-19T05:22:38.679Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://smsindia.vercel.app/blog/upi-digital-payments-india</loc><lastmod>2026-01-19T05:22:38.679Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://smsindia.vercel.app/blog/whatsapp-business-guide-india</loc><lastmod>2026-01-19T05:22:38.679Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://smsindia.vercel.app</loc><lastmod>2026-01-19T05:22:38.679Z</lastmod><changefreq>daily</changefreq><priority>1</priority></url>
+</urlset>
