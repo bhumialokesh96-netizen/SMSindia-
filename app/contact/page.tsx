@@ -22,7 +22,7 @@ export default function ContactPage() {
             For general inquiries, feedback, or content suggestions, please send us an email:
           </p>
           <p className="text-lg font-medium text-blue-600">
-            contact@smsindiabolag.com
+            contact@smsindiablog.com
           </p>
         </div>
 
