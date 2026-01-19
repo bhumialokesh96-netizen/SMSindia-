@@ -1,0 +1,15 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+# Googlebot
+User-agent: Googlebot
+Allow: /
+
+# Host
+Host: https://smsindia.vercel.app
+
+# Sitemaps
+Sitemap: https://smsindia.vercel.app/sitemap.xml
